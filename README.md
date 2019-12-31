@@ -1,5 +1,6 @@
 # MiBandController
     A program can control your MiBand on computer.
+![screenshot](doc/screenshot.png)
 ## What it can be used for?
     1. Control your computer's media playing.
     2. Control your computer's volumn.
